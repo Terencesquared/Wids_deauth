@@ -1,0 +1,132 @@
+{
+  "sessions": [
+    {
+      "name": "normal_00",
+      "pcap": "data/synth/normal_00.pcap",
+      "attacker_macs": [],
+      "attack_start": 0,
+      "attack_end": 0
+    },
+    {
+      "name": "normal_01",
+      "pcap": "data/synth/normal_01.pcap",
+      "attacker_macs": [],
+      "attack_start": 0,
+      "attack_end": 0
+    },
+    {
+      "name": "normal_02",
+      "pcap": "data/synth/normal_02.pcap",
+      "attacker_macs": [],
+      "attack_start": 0,
+      "attack_end": 0
+    },
+    {
+      "name": "normal_03",
+      "pcap": "data/synth/normal_03.pcap",
+      "attacker_macs": [],
+      "attack_start": 0,
+      "attack_end": 0
+    },
+    {
+      "name": "normal_04",
+      "pcap": "data/synth/normal_04.pcap",
+      "attacker_macs": [],
+      "attack_start": 0,
+      "attack_end": 0
+    },
+    {
+      "name": "normal_05",
+      "pcap": "data/synth/normal_05.pcap",
+      "attacker_macs": [],
+      "attack_start": 0,
+      "attack_end": 0
+    },
+    {
+      "name": "normal_06",
+      "pcap": "data/synth/normal_06.pcap",
+      "attacker_macs": [],
+      "attack_start": 0,
+      "attack_end": 0
+    },
+    {
+      "name": "normal_07",
+      "pcap": "data/synth/normal_07.pcap",
+      "attacker_macs": [],
+      "attack_start": 0,
+      "attack_end": 0
+    },
+    {
+      "name": "attack_08",
+      "pcap": "data/synth/attack_08.pcap",
+      "attacker_macs": [
+        "de:ad:be:ef:00:66"
+      ],
+      "attack_start": 1700008010,
+      "attack_end": 1700008025
+    },
+    {
+      "name": "attack_09",
+      "pcap": "data/synth/attack_09.pcap",
+      "attacker_macs": [
+        "de:ad:be:ef:00:66"
+      ],
+      "attack_start": 1700009010,
+      "attack_end": 1700009025
+    },
+    {
+      "name": "attack_10",
+      "pcap": "data/synth/attack_10.pcap",
+      "attacker_macs": [
+        "de:ad:be:ef:00:66"
+      ],
+      "attack_start": 1700010010,
+      "attack_end": 1700010025
+    },
+    {
+      "name": "attack_11",
+      "pcap": "data/synth/attack_11.pcap",
+      "attacker_macs": [
+        "de:ad:be:ef:00:66"
+      ],
+      "attack_start": 1700011010,
+      "attack_end": 1700011025
+    },
+    {
+      "name": "attack_12",
+      "pcap": "data/synth/attack_12.pcap",
+      "attacker_macs": [
+        "de:ad:be:ef:00:66"
+      ],
+      "attack_start": 1700012010,
+      "attack_end": 1700012025
+    },
+    {
+      "name": "attack_13",
+      "pcap": "data/synth/attack_13.pcap",
+      "attacker_macs": [
+        "de:ad:be:ef:00:66"
+      ],
+      "attack_start": 1700013010,
+      "attack_end": 1700013025
+    },
+    {
+      "name": "attack_14",
+      "pcap": "data/synth/attack_14.pcap",
+      "attacker_macs": [
+        "de:ad:be:ef:00:66"
+      ],
+      "attack_start": 1700014010,
+      "attack_end": 1700014025
+    },
+    {
+      "name": "attack_15",
+      "pcap": "data/synth/attack_15.pcap",
+      "attacker_macs": [
+        "de:ad:be:ef:00:66"
+      ],
+      "attack_start": 1700015010,
+      "attack_end": 1700015025
+    }
+  ]
+}

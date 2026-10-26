@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+data/awid3/
+*.pcap
+!data/synth/attack_09.pcap
+!data/synth/normal_07.pcap
+blocklist.txt
+blocklist.log
+results/alerts.log

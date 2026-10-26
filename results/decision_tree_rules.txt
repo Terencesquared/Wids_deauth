@@ -1,0 +1,4 @@
+|--- deauth_ratio <= 0.00
+|   |--- class: 0
+|--- deauth_ratio >  0.00
+|   |--- class: 1

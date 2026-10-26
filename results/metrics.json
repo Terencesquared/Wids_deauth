@@ -1,0 +1,77 @@
+{
+  "test_sessions": [
+    "Deauth_0.csv#0",
+    "Deauth_0.csv#5",
+    "Deauth_27.csv#0",
+    "Deauth_28.csv#0",
+    "Deauth_4.csv#0"
+  ],
+  "models": {
+    "Decision Tree": {
+      "accuracy": 0.9986559139784946,
+      "precision": 1.0,
+      "recall": 0.9848484848484849,
+      "f1": 0.9923664122137404,
+      "confusion_matrix": [
+        [
+          678,
+          0
+        ],
+        [
+          1,
+          65
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.9986559139784946,
+      "precision": 1.0,
+      "recall": 0.9848484848484849,
+      "f1": 0.9923664122137404,
+      "confusion_matrix": [
+        [
+          678,
+          0
+        ],
+        [
+          1,
+          65
+        ]
+      ]
+    }
+  },
+  "naive_random_split_rf": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "confusion_matrix": [
+      [
+        822,
+        0
+      ],
+      [
+        0,
+        80
+      ]
+    ]
+  },
+  "grouped_cv_rf": {
+    "folds": 5,
+    "acc_mean": 0.9996415770609319,
+    "acc_std": 0.0007168458781361852,
+    "recall_mean": 0.9976470588235294,
+    "recall_std": 0.00470588235294116
+  },
+  "always_normal_baseline_acc": 0.9112903225806451,
+  "feature_importance": {
+    "deauth_ratio": 0.36597015529465743,
+    "deauth_count": 0.3360928069558351,
+    "mgmt_ratio": 0.11361920502489202,
+    "rssi_std": 0.09340972491198729,
+    "fps": 0.05425990402791119,
+    "rssi_mean": 0.02924729254768199,
+    "uniq_dst": 0.004548994275651638,
+    "len_mean": 0.0028519169613833457
+  }
+}
